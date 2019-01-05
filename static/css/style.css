@@ -221,13 +221,7 @@ progress::-moz-progress-value {
     background-color: #d4dee4;
 }
 
-.info-header .unit-remove {
-    float: right;
-    margin-left: 20px;
-    visibility: hidden;
-    cursor: pointer;
 
-}
 
 .info-header .item-add {
     float: right;
@@ -238,13 +232,6 @@ progress::-moz-progress-value {
     
 }
 
- .item-remove {
-    position: absolute;
-    right: 2px;
-    margin-right: 2px;
-    visibility: hidden;
-    cursor: pointer;
-    
 }
 
 ul li{
