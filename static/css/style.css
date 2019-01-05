@@ -105,6 +105,7 @@ body {
     background-color: lightslategray;
     font-family: sans-serif;
     zoom: 100%;
+   /* margin: 100%;*/
 }
 
 footer {
@@ -172,10 +173,10 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    /*background-image:url('https://avatars1.githubusercontent.com/u/30307883?s=460');*/
-	background-image:url('https://avatar.csdn.net/C/0/9/3_qq_39478237.jpg');
-   /* background-image:url('avatars1.githubusercontent.com/u/30307883?s=460&v=4');*/
-    background-size: 90%;
+ /*   background-image:url('https://avatars1.githubusercontent.com/u/30307883?s=460');*/
+    background-image:url('https://avatar.csdn.net/C/0/9/3_qq_39478237.jpg');
+
+    background-size: 100%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
@@ -250,24 +251,5 @@ ul li{
     position: relative;
 }
 
- .experience-list .item-remove {
-    position: absolute;
-    right: 2px;
-    top: 0px;
-    margin-right: 2px;
-    visibility: hidden;
-    cursor: pointer;
-    
-}
-
- .stack-list .item-remove {
-    position: absolute;
-    right: 2px;
-    top: 0px;
-    margin-right: 2px;
-    visibility: hidden;
-    cursor: pointer;
-    
-}
 
 
